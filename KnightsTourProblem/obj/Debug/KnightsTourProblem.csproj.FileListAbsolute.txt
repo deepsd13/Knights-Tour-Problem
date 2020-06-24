@@ -1,0 +1,20 @@
+C:\Users\Deep Shah\source\repos\KnightsTourProblem\KnightsTourProblem\bin\Debug\KnightsTourProblem.exe.config
+C:\Users\Deep Shah\source\repos\KnightsTourProblem\KnightsTourProblem\bin\Debug\KnightsTourProblem.exe
+C:\Users\Deep Shah\source\repos\KnightsTourProblem\KnightsTourProblem\bin\Debug\KnightsTourProblem.pdb
+C:\Users\Deep Shah\source\repos\KnightsTourProblem\KnightsTourProblem\obj\Debug\KnightsTourProblem.csprojAssemblyReference.cache
+C:\Users\Deep Shah\source\repos\KnightsTourProblem\KnightsTourProblem\obj\Debug\KnightsTourProblem.KnightsTourProblem.resources
+C:\Users\Deep Shah\source\repos\KnightsTourProblem\KnightsTourProblem\obj\Debug\KnightsTourProblem.Properties.Resources.resources
+C:\Users\Deep Shah\source\repos\KnightsTourProblem\KnightsTourProblem\obj\Debug\KnightsTourProblem.csproj.GenerateResource.cache
+C:\Users\Deep Shah\source\repos\KnightsTourProblem\KnightsTourProblem\obj\Debug\KnightsTourProblem.csproj.CoreCompileInputs.cache
+C:\Users\Deep Shah\source\repos\KnightsTourProblem\KnightsTourProblem\obj\Debug\KnightsTourProblem.exe
+C:\Users\Deep Shah\source\repos\KnightsTourProblem\KnightsTourProblem\obj\Debug\KnightsTourProblem.pdb
+C:\Users\Deep Shah\Desktop\Sem 4\.NET  C#\Assignments\Prog Assignment1\KnightsTourProblem\KnightsTourProblem\obj\Debug\KnightsTourProblem.csprojAssemblyReference.cache
+C:\Users\Deep Shah\Desktop\Sem 4\.NET  C#\Assignments\Prog Assignment1\KnightsTourProblem\KnightsTourProblem\obj\Debug\KnightsTourProblem.KnightsTourProblem.resources
+C:\Users\Deep Shah\Desktop\Sem 4\.NET  C#\Assignments\Prog Assignment1\KnightsTourProblem\KnightsTourProblem\obj\Debug\KnightsTourProblem.Properties.Resources.resources
+C:\Users\Deep Shah\Desktop\Sem 4\.NET  C#\Assignments\Prog Assignment1\KnightsTourProblem\KnightsTourProblem\obj\Debug\KnightsTourProblem.csproj.GenerateResource.cache
+C:\Users\Deep Shah\Desktop\Sem 4\.NET  C#\Assignments\Prog Assignment1\KnightsTourProblem\KnightsTourProblem\obj\Debug\KnightsTourProblem.csproj.CoreCompileInputs.cache
+C:\Users\Deep Shah\Desktop\Sem 4\.NET  C#\Assignments\Prog Assignment1\KnightsTourProblem\KnightsTourProblem\obj\Debug\KnightsTourProblem.exe
+C:\Users\Deep Shah\Desktop\Sem 4\.NET  C#\Assignments\Prog Assignment1\KnightsTourProblem\KnightsTourProblem\obj\Debug\KnightsTourProblem.pdb
+C:\Users\Deep Shah\Desktop\Sem 4\.NET  C#\Assignments\Prog Assignment1\KnightsTourProblem\KnightsTourProblem\bin\Debug\KnightsTourProblem.exe.config
+C:\Users\Deep Shah\Desktop\Sem 4\.NET  C#\Assignments\Prog Assignment1\KnightsTourProblem\KnightsTourProblem\bin\Debug\KnightsTourProblem.exe
+C:\Users\Deep Shah\Desktop\Sem 4\.NET  C#\Assignments\Prog Assignment1\KnightsTourProblem\KnightsTourProblem\bin\Debug\KnightsTourProblem.pdb
